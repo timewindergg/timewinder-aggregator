@@ -1,0 +1,5 @@
+venv/
+.sublime-project
+timewinder-aggregator.sublime-project
+timewinder-aggregator.sublime-workspace
+trafficai-web.sublime-workspace

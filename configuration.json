@@ -1,0 +1,23 @@
+{
+  "global": {
+    "default_region": "NA"
+  },
+
+  "pipeline": {
+    "Cache": {},
+
+    "DDragon": {},
+
+    "RiotAPI": {
+      "api_key": "RGAPI-ffff0aba-ba5a-8d96-8fc0-5003052014f3",
+      "limiting_share": 0.1
+    }
+  },
+
+  "logging": {
+    "print_calls": false,
+    "print_riot_api_key": false,
+    "default": "WARNING",
+    "core": "WARNING"
+  }
+}
